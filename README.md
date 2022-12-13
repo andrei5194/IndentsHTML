@@ -1,2 +1,2 @@
 # IndentsHTML
-Практика использования HTML и CSS
+Практика HTML и CSS
